@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/eltonmorenocl/eltonmorenocl.github.io/blob/main/programminglanguagesstickers.jpeg?raw=true" align="center" height="" width="600" />
+<img src="https://github.com/eltonmorenocl/eltonmorenocl.github.io/blob/main/programminglanguages.jpeg?raw=true" align="center" height="" width="600" />
 </div>  
   
 
