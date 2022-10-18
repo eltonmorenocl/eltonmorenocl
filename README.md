@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Eu sou Elton, Full Stack Software Developer 💻 🚀 </div>  
+### <div align="center">Olá Mundo! Meu nome é Elton, Full Stack Software Developer 💻 🚀 </div>  
   
 
 - 🔭 Estudante de Desenvolvimento Web na Trybe  
