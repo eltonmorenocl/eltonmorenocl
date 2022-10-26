@@ -59,6 +59,9 @@
 
 ## Connect with me  
 <div align="center">
+<a href="mailto:eltonmorenocl@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/eltonmorenocl" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -67,7 +70,14 @@
 </a>
 <a href="https://linkedin.com/in/eltonmoreno" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://t.me/eltonmorenocl" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://hackerrank.com/eltonmorenocl" target="_blank">
+<img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+
 </div>  
   
 
