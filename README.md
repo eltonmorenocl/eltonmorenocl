@@ -5,14 +5,15 @@
 
 ### <div align="center">Olá Mundo! Saudações, Meu nome é Elton, Full Stack Software Developer 💻 🚀 </div>  
   
-
-- 🔭 Estudante de Desenvolvimento Web na Trybe  
+  - 🔭 Estudante de Desenvolvimento Web na Trybe
+  - 👨‍💻
+  - <img src=https://www.codewars.com/users/eltonmorenocl/badges/micro alt=devto style="margin-bottom: 5px;" />
   
 
 <br/>  
 
 
-## My Skill Set  
+## My Skills 
 <table><tr><td valign="top" width="33%">
 
 
@@ -86,6 +87,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eltonmorenocl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+----
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonmorenocl&hide_border=true&layout=compact" align="center" /></div>  
 
