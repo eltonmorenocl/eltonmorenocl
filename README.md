@@ -6,7 +6,6 @@
 ### <div align="center">Olá Mundo! Saudações, Meu nome é Elton, Full Stack Software Developer 💻 🚀 </div>  
   
   - 🔭 Estudante de Desenvolvimento Web na Trybe
-  - 👨‍💻
   - <img src=https://www.codewars.com/users/eltonmorenocl/badges/micro alt=devto style="margin-bottom: 5px;" />
   
 
@@ -88,11 +87,13 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eltonmorenocl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-----
+<br/>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonmorenocl&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
+<br/>
+<br/> 
+<br/> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=eltonmorenocl&&style=flat-square" align="center" />
@@ -102,12 +103,10 @@
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/eltonmorenocl" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+  <a href="https://www.buymeacoffee.com/eltonmorenocl" target="_blank" style="display: inline-block;"> 
+  <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" />
+ </a>
+ </div>
 <br />
 
 ----
