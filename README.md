@@ -6,8 +6,6 @@
 ### <div align="center">Olá Mundo! Saudações, Meu nome é Elton, Full Stack Software Developer 💻 🚀 </div>  
   
   - 🔭 Formado em Desenvolvimento Web Fullstack na Trybe
-  - <img src=https://www.codewars.com/users/eltonmorenocl/badges/micro alt=devto style="margin-bottom: 5px;" />
-  
 
 <br/>  
 
