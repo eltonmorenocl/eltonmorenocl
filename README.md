@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://github.com/eltonmorenocl/eltonmorenocl.github.io-1v-/blob/main/programminglanguages.png?raw=true" align="center" height="" width="600" />
+<img src="https://github.com/eltonmorenocl/eltonmorenocl.github.io-1v-/blob/main/capa%20github.png?raw=true" align="center" height="" width="600" />
 </div>  
-  
+
 
 ### <div align="center">Olá Mundo! Saudações, Meu nome é Elton, Full Stack Software Developer 💻 🚀 </div>  
   
