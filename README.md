@@ -3,56 +3,37 @@
 </div>  
 
 
-### <div align="center">Olá Mundo! Saudações, Meu nome é Elton, Full Stack Software Developer 💻 🚀 </div>  
+### <div align="center">Olá Mundo! Saudações! 💻 </div>  
   
-  - 🔭 Formado em Desenvolvimento Web Fullstack na Trybe
+  - Superior em Análise e Desenvolvimento de Sistemas pela UNIFACS.
+  - Formação em Desenvolvimento Web FullStack da TRYBE.
+  - Certificação AWS Certified Cloud Practitioner
+  - Me encontrei na área de tecnologia, busco aprender algo novo todos os dias.
+  - Tenho conhecimento nas linguagens Node.js, Typescript, JavaScript, React, Python, Docker, AWS. 
+  - Estou apto a aprender novas tecnologias para ser um desenvolvedor melhor.
+  - Acredito que ser um desenvolvedor não é usar uma linguagem específica, mas escolher a ferramenta adequada para cada trabalho.
+  - Considero-me flexível, determinado e proativo.
 
 <br/>  
 
-
-## My Skills 
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend:  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend:  
-<div align="center">
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://github.com/eltonmorenocl/eltonmorenocl.github.io-1v-/blob/main/aws.svg" alt="AWS" height="50" /></a>   
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<!-- <a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" /></a>  
-<a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>   -->
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Tools:  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://github.com/eltonmorenocl/eltonmorenocl.github.io-1v-/blob/main/vscode.svg" alt="VsCode" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a> 
-</div>
-
-</td></tr></table>  
+### Habilidades
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
+![VSCode](https://img.shields.io/badge/VScode-000?style=for-the-badge&logo=visual-studio-code)
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/node.JS-000?style=for-the-badge&logo=node.js)
+![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
+![MySQL](https://img.shields.io/badge/Mysql-000?style=for-the-badge&logo=mysql)
+![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=jest)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/Aws-000?style=for-the-badge&logo=amazon-aws)
+ 
 
 <br/>  
 
