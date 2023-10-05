@@ -33,6 +33,7 @@
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/Aws-000?style=for-the-badge&logo=amazon-aws)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
  
 
 <br/>  
